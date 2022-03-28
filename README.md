@@ -1,5 +1,5 @@
 # Machine Learning Regression with Linear Regression, Logistic Regression and Softmax Regression
-I used many different methods to solve the regression problem. 
+I used many different methods to solve the regression problem. I used 2 frameworks: Numpy and Tensorflow.
 You can see it on Colab for best performance.
 ## Linear Regression
 ![image](https://user-images.githubusercontent.com/80930272/160370352-2e656188-1675-4b43-9371-0c5af37a45a9.png)
